@@ -61,7 +61,7 @@ function AboutPage() {
                     className="underline"
                   >{`satyamkrs343@gmail.com`}</a>
                 </li>
-                <li>Phone: (+91) 7083526766</li>
+                <li>Phone: (+91) 7091527538</li>
               </ul>
             </div>
           </section>
