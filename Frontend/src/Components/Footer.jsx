@@ -53,7 +53,7 @@ function Footer() {
     </div>
   </nav>
   <aside>
-    <p className='text-black font-semibold'>Copyright © {new Date().getFullYear()} - Aryan Bhoi</p>
+    <p className='text-black font-semibold'>Copyright © {new Date().getFullYear()} - Satyam Singh</p>
   </aside>
 </footer>
     </div>

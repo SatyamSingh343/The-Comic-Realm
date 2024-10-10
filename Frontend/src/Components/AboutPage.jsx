@@ -57,9 +57,9 @@ function AboutPage() {
                 <li>
                   Email:{" "}
                   <a
-                    href="mailto:aryansbhoi@gmail.com"
+                    href="mailto:satyamkrs343@gmail.com"
                     className="underline"
-                  >{`aryansbhoi@gmail.com`}</a>
+                  >{`satyamkrs343@gmail.com`}</a>
                 </li>
                 <li>Phone: (+91) 7083526766</li>
               </ul>
